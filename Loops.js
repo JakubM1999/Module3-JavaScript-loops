@@ -140,7 +140,7 @@ while(i < 10) {
 // Question seperatot
 console.log("------------------------------------")
 
-// 3.Output all properties of all people using for…in
+// 3.Output all properties of all people using for…in loop
 
 /* This is a for...in loop which helps us output all properties of
 people. How does this loop work? well, first you need to loop through
@@ -176,4 +176,3 @@ include this because it can also be an alternative */
 //     }
 //     console.log("----------------------------")
 // }
-
